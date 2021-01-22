@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository!
+
+Hello Humans!
+
+Maigurs here, I set goal to learn Swift programming lanuguage in this year!
